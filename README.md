@@ -1,6 +1,8 @@
 ## Dataset Putusan Pengadilan Negeri Banjarbaru - Kasus Pidana Narkotika
 
-![Putusan Mahkamah Agung](https://drive.google.com/uc?export=view&id=1wmXF9DtznreZv6eMrr1o08r0G7II-tpz)
+<center>
+  <img src="https://drive.google.com/uc?export=view&id=1jvDv2Vecbm9x4rJUKcwFz-qNELHLYYhA" alt="Putusan Mahkamah Agung">
+</center>
 
 Dataset ini berisi 50 dokumen putusan pengadilan terkait kasus pidana khusus narkotika dan psikotropika dari Pengadilan Negeri Kota Banjarbaru. Data ini digunakan sebagai bahan praktikum untuk mata kuliah Temu Kembali Informasi, dengan tujuan mendukung pemahaman proses pengolahan dan pengindeksan teks hukum.
 
