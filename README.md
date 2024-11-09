@@ -1,6 +1,6 @@
 ## Dataset Putusan Pengadilan Negeri Banjarbaru - Kasus Pidana Narkotika
 
-![Logo contoh](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpa-makassar.go.id%2Flayanan-publik%2Flayanan-informasi-perkara%2Fdirektori-putusan&psig=AOvVaw1fy5Z7geXxzRr7NnDncH6D&ust=1731216458975000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNixq4PCzokDFQAAAAAdAAAAABAJ)
+![Putusan Mahkamah Agung ](https://drive.google.com/file/d/1wmXF9DtznreZv6eMrr1o08r0G7II-tpz/view?usp=drive_link)
 
 Dataset ini berisi 50 dokumen putusan pengadilan terkait kasus pidana khusus narkotika dan psikotropika dari Pengadilan Negeri Kota Banjarbaru. Data ini digunakan sebagai bahan praktikum untuk mata kuliah Temu Kembali Informasi, dengan tujuan mendukung pemahaman proses pengolahan dan pengindeksan teks hukum.
 
@@ -21,8 +21,9 @@ Dataset ini berisi 50 dokumen putusan pengadilan terkait kasus pidana khusus nar
 
 ## Struktur Repository
 
-- **dataset/Putusan pengadilan.zip**
-- **overview/Overview.xlsx**
+- **dataset/**: Folder ini berisi file _Putusan_pengadilan.zip_, yang merupakan kumpulan dokumen putusan pengadilan terkait kasus narkotika.
+- **overview/**: Folder ini berisi file _Overview.xlsx_, yang mencakup ringkasan atau informasi awal tentang isi dataset.
+- **README.md**: File ini berisi panduan dan informasi umum terkait repositori.
 
 ## Tujuan Penggunaan
 
