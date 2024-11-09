@@ -21,9 +21,12 @@ Dataset ini berisi 50 dokumen putusan pengadilan terkait kasus pidana khusus nar
 
 ## Struktur Repository
 
-- **dataset/**: Folder ini berisi file _Putusan_pengadilan.zip_, yang merupakan kumpulan dokumen putusan pengadilan terkait kasus narkotika.
-- **overview/**: Folder ini berisi file _Overview.xlsx_, yang mencakup ringkasan atau informasi awal tentang isi dataset.
-- **README.md**: File ini berisi panduan dan informasi umum terkait repositori.
+    .
+    ├── Dataset
+    |    └── Putusan Pengadilan.zip
+    ├── Overview
+    |    └── Overview.xlsx
+    └── README.md
 
 ## Tujuan Penggunaan
 
